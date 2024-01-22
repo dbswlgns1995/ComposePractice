@@ -26,7 +26,7 @@ val cardData = CardData(
     imageUri = "https://fastly.picsum.photos/id/742/200/300.jpg?hmac=sHIMP5dqRR6HpQIp-okFHEfCF2qUo8G3_cq7DuFoCRw",
     imageDescription = "이미지 설명",
     author = "작가작가작가",
-    description = "설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명설명"
+    description = "설명설명설명설명설명설명설명설명"
 )
 
 @OptIn(ExperimentalMaterial3Api::class)
